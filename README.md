@@ -1,5 +1,5 @@
-Global Population Report 2024
-Overview
+## Global Population Report 2024
+
 
 The Global Population Report 2024 provides a comprehensive analysis of worldwide demographic patterns using data on population distribution, age composition, gender ratio, and density. This project focuses on identifying global trends such as population growth, aging demographics, and regional disparities. The dataset has been analyzed through Exploratory Data Analysis (EDA) using Python to uncover meaningful insights and visualize global population structures.
 
